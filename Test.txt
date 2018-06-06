@@ -1,0 +1,18 @@
+Testing test test
+You can now test the application to make sure it works correctly.
+
+To test the application
+Press F5 to run the application.
+
+When the form is displayed, enter the file path for the file you want to test in the sourceFile box. For example, assuming your test file is named Test.txt, enter C:\Test.txt.
+
+In the second text box, enter a word or phrase for the application to search for in the text file.
+
+Click the Start button. The LinesCounted button should begin incrementing immediately. The application displays the message "Finished Counting" when it is done.
+
+To test the Cancel button
+Press F5 to start the application, and enter the file name and search word as described in the previous procedure. Make sure that the file you choose is large enough to ensure you will have time to cancel the procedure before it is finished.
+
+Click the Start button to start the application.
+
+Click the Cancel button. The application should stop counting immediately.
